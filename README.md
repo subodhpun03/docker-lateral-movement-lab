@@ -52,5 +52,5 @@ This project helps understand:
 - Microservice isolation strategies
 
 ## Team
-Subodh Pun 
-Bhavesh Verma
+- Subodh Pun 
+- Bhavesh Verma
